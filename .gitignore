@@ -1,0 +1,5 @@
+# Ignora i file bytecode Python
+*.pyc
+
+# Ignora la directory virtuale dell'ambiente
+venv/
