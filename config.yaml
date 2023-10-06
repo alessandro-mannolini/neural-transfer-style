@@ -1,9 +1,9 @@
 parameters:
     image_size: 512
-    total_steps: 100
-    learning_rate: 0.003
-    alpha: 100
-    beta: 10
+    total_steps: 300
+    learning_rate: 0.005
+    alpha: 10
+    beta: 70
 
 path:
     folder_img_original: "C:\\Users\\aless\\Documents\\03_git_hub_personale\\01_transfer_style\\immagini\\immagini_originali"
